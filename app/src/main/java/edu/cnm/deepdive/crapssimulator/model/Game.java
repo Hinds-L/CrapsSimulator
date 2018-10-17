@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.crapssimulator;
+package edu.cnm.deepdive.crapssimulator.model;
 
 import java.util.Arrays;
 import java.util.LinkedList;
